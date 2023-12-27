@@ -1,5 +1,5 @@
 # Java-Projects-II
-A collection of the most advanced projects I've completed using the Java programming language. For my earlier projects, please view the Java-Projects-I repository. These projects are mainly intended for viewing purposes. Those who want to test the code (such as recruiters), can simply download the files and run the java programs in their Eclipse application.
+A collection of the most advanced Software II (OSU) projects I've completed using the Java programming language. For my earlier projects, please view the Java-Projects-I repository. These projects are mainly intended for viewing purposes. Those who want to test the code (such as recruiters), can simply download the files and run the java programs in their Eclipse application.
 
 
 Project Descriptions:
